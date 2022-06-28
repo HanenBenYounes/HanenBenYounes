@@ -33,9 +33,6 @@
 
 ##  ❤️ Connect with me:
 <p>  <a href="https://www.linkedin.com/in/hanen-ali-salah-32105a134/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alaeddineazri" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/17284115/alaeddine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17284115/alaeddine" height="30" width="40" /></a>
-<a href="https://fb.com/ala.3antiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ala.3antiri" height="30" width="40" /></a>
-<a href="https://discord.gg/3ala#3525" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="3ala#3525" height="30" width="40" /></a></a>
 
 </p>
 
