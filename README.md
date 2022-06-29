@@ -24,7 +24,7 @@
 
 - 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned 
 
-- ⚡ Fun fact: I love traveling and camping 
+- ⚡ Fun fact: I love travelling and camping 
 
 
 
